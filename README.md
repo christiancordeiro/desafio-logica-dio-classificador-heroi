@@ -1,5 +1,5 @@
 # desafio-logica-dio-classificador-heroi
-Desafio simples do curso da Dio sobre lógica de programação
+Entrega do desafio simples do curso da Dio sobre lógica de programação
 
 # 1️⃣ Desafio Classificador de nível de Herói
 
